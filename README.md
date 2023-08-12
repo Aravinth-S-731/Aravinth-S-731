@@ -63,3 +63,17 @@
     <img src="https://cdn-icons-png.flaticon.com/128/5968/5968428.png" width=50>
     <img src="https://cdn-icons-png.flaticon.com/128/1146/1146196.png" width=50>
 </div>
+
+<h2>PROJECTS</h2>
+
+- ### [Track My BUS](https://github.com/Aravinth-S-731/Track-my-bus)
+    ***Track My BUS*** is an web application that is used to track the government bus without any dedicated devices. This application uses *Python Flask* for the back-end programming.
+
+- ### [E -BOT](https://github.com/Aravinth-S-731/E-Bot)
+    ***E - Bot*** is a web based *chatbot* application that helps users to navigate through he government E-Service websites. This application uses Python's *NLTK*, *Keras* and *Tensorflow* to process data.
+
+- ### [Just TRAVELS](https://github.com/Aravinth-S-731/JUST-TRAVELS)
+    ***Just TRAVELS*** is an static web application to demonstrate my Front-End development skills. This static web application is constructed using *Bootstrap*, *Grid Layout* and so much more.
+
+- ### [GLID]()
+    ***GLID*** - `Gas Leakage Identification Device` is an product based projects that uses *embedded C programming*. This device is used to prevent fire and gas leakage accidents. This product is funded by **Startup Payanam** and **Ideathon 2022**.
