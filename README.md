@@ -64,7 +64,7 @@
     <img src="https://cdn-icons-png.flaticon.com/128/1146/1146196.png" width=50>
 </div>
 
-<h2>PROJECTS</h2>
+<h2>PROJECTS 🚀</h2>
 
 - ### [Track My BUS](https://github.com/Aravinth-S-731/Track-my-bus)
     ***Track My BUS*** is an web application that is used to track the government bus without any dedicated devices. This application uses *Python Flask* for the back-end programming.
