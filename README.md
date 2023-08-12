@@ -1,20 +1,21 @@
 <h1 align="center">Hi! I'm Aravinth</h1>
 <h3 align="center">Unraveling Codes 👨‍💻 and Creating Design Magic 🎨</h3>
 
+
+<a href="mailto:aravinths741@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/aravinths741/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="#">![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)</a>
+<a href="tel:+917871867225">![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
+
+
 <br/>
 
-<div id="about-me">
-    <div>
-        <h3>Know about me</h3>
-        <p style="font-size: 16px;">A young and skilled web developer with a strong foundation in web development and valuable project
-        experience. Equipped with in-depth knowledge in programming languages and frameworks.
-        Additionally, my proficiency in back-end languages such as Python and Java, expertise in writing database
-        queries and familiarity with embedded programming enables me to tackle diverse development challenges.</p>
-    </div>
-    <br/>
-    <div>
-        <div align="center"><img src="/assests/programmer.gif" alt="Programmer Image" width="300px" height="300px"></div>
-    </div>
+<div>
+    <h3>Know about me</h3>
+    <p style="font-size: 16px;">A young and skilled web developer with a strong foundation in web development and valuable project
+    experience. Equipped with in-depth knowledge in programming languages and frameworks.
+    Additionally, my proficiency in back-end languages such as Python and Java, expertise in writing database
+    queries and familiarity with embedded programming enables me to tackle diverse development challenges.</p>
 </div>
 
 
@@ -24,11 +25,10 @@
 - Geek by day, code-slayer by night
 - ***Design*** like an artist 🧑‍🎨, ***code*** like a wizard 🧙‍♂️
 ---
----
 
 <h2>SKILLS</h2>
 
-<h3>Front-End Development</h3>
+<h3>Front-End Languages</h3>
 <div style="display:flex; gap:10%;">
     <img src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" width=50>
     <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" width=50>
@@ -37,7 +37,7 @@
 </div>
 
 
-<h3>Back-End Development</h3>
+<h3>Programming Languages</h3>
 <div style="display:flex; gap:10%;">
     <img src="https://cdn-icons-png.flaticon.com/128/3098/3098090.png" width=50>
     <img src="https://cdn-icons-png.flaticon.com/128/5968/5968282.png" width=50>
